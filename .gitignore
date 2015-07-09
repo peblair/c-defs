@@ -1,0 +1,5 @@
+*.rkt~
+compiled/
+/doc/
+/docs/*.*
+!/docs/*.scrbl
